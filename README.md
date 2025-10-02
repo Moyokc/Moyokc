@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Moyo and I am an experienced Engineer</h1>
+<h2 align="left">Hi 👋! My name is Moyo and I am an experienced Engineer</h2>
 Engineer | Aspiring Data Analyst
 
 ###
@@ -28,5 +28,28 @@ Engineer | Aspiring Data Analyst
 
 ###
 
-##
+## About Me :construction_worker_woman:
+I am an Engineer with 20 years of experience.
+
+## Mission :dart:
+My mission is to help people naviagate better in their lives.
+
+## Skills :hammer_and_wrench:
+1. Data Analysis
+   * Pivot Table
+   * DAX
+   + SQL
+2. Data Visualization
+   - Excel
+   - Power BI
+3. Workspace Tools
+   * MS Office
+   * Jira
+   * ClickUp
+
+## Project :books:
+
+
+## Connect with Me 
+* :link: [LinkedIn](https://linkedin.com/in/khululwa-moyo-70466882)
 
