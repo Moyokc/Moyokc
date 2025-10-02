@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Moyo and I am an experienced Engineer</h2>
+<h1 align="left">Hi 👋! My name is Moyo and I am an experienced Engineer</h1>
+Engineer | Aspiring Data Analyst
 
 ###
 
@@ -26,4 +27,6 @@
 </div>
 
 ###
+
+##
 
