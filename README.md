@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Moyo</h1>
 <h3 align="center">A passionate Engineer and Aspiring Data Analyst</h3>
 
