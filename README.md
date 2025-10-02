@@ -48,7 +48,7 @@ My mission is to help people naviagate better in their lives.
    * ClickUp
 
 ## Project :books:
-
+[How to Optimize your GitHub](https://github.com/Moyokc/test): Find details here to optimize your profile.
 
 ## Connect with Me 
 * :link: [LinkedIn](https://linkedin.com/in/khululwa-moyo-70466882)
